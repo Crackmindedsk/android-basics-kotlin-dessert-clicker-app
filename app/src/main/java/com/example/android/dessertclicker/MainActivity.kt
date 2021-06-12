@@ -177,6 +177,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+
     /**
      * Menu methods
      */
